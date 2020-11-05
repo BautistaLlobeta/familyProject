@@ -1,0 +1,31 @@
+body{
+    font-family: "Bebas Neue";
+    text-align: center;
+
+    background: #00334e;
+    
+}
+
+.question{
+    font-size: 30px;
+
+    color: #f6f5f5;
+
+    margin-top: 15%;
+}
+
+.date{
+    font-size: 75px;
+    color: black;
+}
+.name{
+    font-size: 120px;
+    color: #e95436;
+    background: #145374;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.815);
+
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.74);
+}
